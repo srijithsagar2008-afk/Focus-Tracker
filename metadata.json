@@ -1,0 +1,6 @@
+{
+  "name": "FocusTrack",
+  "description": "Academic habit tracking, nocturnal focus cockpit, and consistency analytics for high-performing students.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
